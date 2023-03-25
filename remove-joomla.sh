@@ -1,0 +1,1 @@
+docker stop joomlacms joomladb  && docker rm joomlacms joomladb  && docker rmi joomla:4.2.6 mysql:5.6 
